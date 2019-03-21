@@ -1,4 +1,5 @@
 # Phoenix Light Rail Study
+Project Status: `completed`
 
 This was my first ever GIS final project back when I was taking my GIS I class. The goal of the project was to apply the spatial analysis techniques from class on a freely available dataset using QGIS. The goal was to ultimately show an interesting and non-obvious phenomenon. 
 
